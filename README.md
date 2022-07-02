@@ -1,7 +1,7 @@
 # KeyboardAnimator
 - 키보드 노출에 의한 레이아웃 애니메이션 적용
 - 키보드 노출시 레이아웃이 텔레포트 하는 현상을 키보드 노출 애니메이터와 동일하게 맞춰서 자연스럽게 하기 위함
-- [MainActivity#28](https://github.com/ikmuwn/Mock-android/blob/d17b4e1f44f7f2d1f97f20ef7d602e1df798b577/app/src/main/java/kim/uno/mock/ui/main/MainActivity.kt#L28)
+- [MainActivity#27](https://github.com/ikmuwn/Mock-android/blob/599b2181761df2ac88a91ecfc78162c73d5bf1d2/app/src/main/java/kim/uno/mock/ui/main/MainActivity.kt#L27)
 - [Mock-android](https://github.com/ikmuwn/Mock-android)
 
 ## Use
